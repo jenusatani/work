@@ -1,0 +1,277 @@
+@media (max-width: 430px) {
+    
+    
+ 
+    #logo{
+        margin-bottom: 300px;
+    }
+
+    .navbar-dropdown{
+       margin-bottom: 170px;
+       position: relative;
+       right: 310px;
+       font-size: 7px;
+    }
+
+
+    #button{
+        position: relative;
+        right: 700px;
+        top: 20px;
+    }
+
+
+    #img1{
+        position: relative;
+        bottom: 180px;
+    }
+
+
+    #text1{
+        color: aqua;
+        font-size: 10px;
+        position: relative;
+        bottom: 260px;
+    }
+
+
+    #ic{
+        position: relative;
+        bottom: 270px;
+        font-size: 10px;
+    }
+
+
+    #n1{
+        position: relative;
+        bottom: 200px;
+        font-size: 30px;
+        font-weight: 900;
+        font-family: monospace;
+    }
+
+
+    #line1{
+        position: relative;
+        bottom: 240px;
+    }
+
+
+    #box2pa{
+        position: relative;
+        bottom: 240px;
+    }
+
+
+    #marq{
+        position: relative;
+        bottom: 240px;
+    }
+
+    #button1{
+        position: relative;
+        bottom: 240px;
+    }
+
+
+    #na1{
+        font-weight: 900;
+        font-family: monospace;
+    }
+
+
+    #g1{
+       height: 300px;
+    }
+
+    #g2{
+        height: 300px;
+    }
+
+
+    
+    #g3{
+        height: 300px;
+    }
+
+    #g4{
+        height: 300px;
+    }
+
+    #g5{
+        height: 300px;
+    }
+
+    #g6{
+        height: 300px;
+    }
+
+
+
+
+
+
+    #im{
+        width: 350px;
+        position: relative;
+        right: 20px;
+    }
+
+    #im2{
+        width: 350px;
+        position: relative;
+        right: 410px;
+        top: 320px;
+    }
+
+    #te1{
+        position: relative;
+        right: 410px;
+        top: 320px;
+    }
+
+
+    #im3{
+        width: 350px;
+        position: relative;
+        right: 800px;
+        top: 650px;
+    }
+
+    #te2{
+        position: relative;
+        right: 800px;
+        top: 650px;
+    }
+
+
+
+     #n8{
+        position: relative;
+        top: 390px;
+        font-size: 30px;
+        font-family: monospace;
+     }
+
+
+     #line4{
+        position: relative;
+        top: 350px;
+     }
+
+
+     #bo{
+        position: relative;
+        top: 380px;
+     }
+
+
+
+     #ni1{
+        margin-left: 300px;
+     }
+
+     
+
+     #n3{
+        font-size: 30px;
+        font-family: monospace;
+     }
+
+     
+
+     #box12{
+        width: 300px;
+     }
+
+
+     #box13{
+        width: 300px;
+     }
+
+
+     #card1{
+        width: 300px;
+     }
+
+
+
+
+    .box {
+        width: 100%;
+        min-width: 100%;
+    }
+
+
+
+    .box-1 {
+        width: 100%;
+        min-width: 100%;
+    }
+
+
+
+
+
+    .cards {
+        flex-direction: column;
+        gap: 15px;
+    }
+  
+    .card {
+        max-width: 20%;
+    }
+
+
+
+    #n12{
+       position: relative;
+       top: 670px;
+       font-family: monospace;
+    }
+
+
+    #line6{
+        position: relative;
+        top: 620px;
+    }
+
+
+    #box2pa2{
+        position: relative;
+        top: 650px;
+    }
+
+    
+
+
+
+    .form-container {
+        width: 90%;
+        padding: 15px;
+        position: relative;
+        top: 640px;
+    }
+  
+    #footer1{
+       margin-top: 600px;
+    }
+
+    .footer-middle {
+        flex-direction: column;
+    }
+  
+    .footer-links {
+        flex-direction: column;
+        align-items: center;
+    }
+  
+    .footer-links li {
+        margin: 10px 0;
+    }
+  
+    .footer-logo {
+        align-items: center;
+    }
+  }
+
