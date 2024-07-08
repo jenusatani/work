@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.sec1{
+    height:950px;
+    background-image: url(https://bmw.scene7.com/is/image/BMW/iX?wid=3000&hei=3000);
+    background-size:cover;
+    background-position:top;
+    background-repeat: no-repeat;
+}
+.nav-link{
+    font-size: 18px;
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+}
+.bt1{
+    height: 53px;
+    width: 200px;
+    border: none;
+    background-color:#1c69d4;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    font-weight: 650;
+}
+.bt1:hover{
+    background-color: #0f4fa9;
+}
+.sec2{
+    height: 650px;
+    border: 1px solid;
+    background-image: url(https://bmw.scene7.com/is/image/BMW/neue-klasse_overview_home-stage_teaser?wid=3000&hei=3000);
+    background-size: cover;
+    background-position: center;
+}
+.bt2{
+    height: 50px;
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    font-weight:650;
+    margin-left: 6.5%;
+}
+.bt2:hover{
+    border: 2px solid white;
+}
+.bt3{
+    height: 49px;
+    width: 160px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: white;
+    border-radius: 4px;
+}
+.bt3:hover{
+    border: 2px solid black;
+}
+.bt4{
+    height: 51px;
+    width: 250px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: white;
+    border-radius: 4px;
+}
+.bt4:hover{
+    border: 2px solid black;
+}
+.bt5{
+    height: 49px;
+    width: 200px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: white;
+    border-radius: 4px;
+}
+.bt5:hover{
+    border: 2px solid black;
+}
+.sec3{
+    height: 500px;
+    border: 1px solid;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://bmw.scene7.com/is/image/BMW/DI21_000048047?wid=3840&hei=2880);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.bt6{
+    height: 50px;
+    width: 275px;
+    border: 1px solid white;
+    color: white;
+    background-color:transparent;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.bt6:hover{
+    border: 2px solid white;
+}
+.footer{
+    background-color:#f6f6f6;
+}
