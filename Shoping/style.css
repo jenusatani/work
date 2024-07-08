@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.s1{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s11{
+    height:100%;
+}
+#icon1{
+    font-size: 18px;
+}
+.block1{
+    height:95vh;
+    width: 20%;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+    right: 0%;
+    display: none;
+}
+#icon2{
+    position: relative;
+    left: 90%;
+}
+#icon2:hover{
+    transform: rotate(90deg);
+    transition-duration: 0.5s;
+}
+.p1{
+    color: white;
+    display: none;
+}
+.s1:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s1:hover .p1{
+    display: block;
+}
+.s2{
+    height: 450px;
+    /* width: 33%; */
+    background-image: url('https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s2:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s2:hover .p1{
+    display: block;
+}
+.s3{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s3:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s3:hover .p1{
+    display: block;
+}
+.s4{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s4:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s4:hover .p1{
+    display: block;
+}
+.s5{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s5:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s5:hover .p1{
+    display: block;
+}
+.s6{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s6:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s6:hover .p1{
+    display: block;
+}
+ .s7{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s7:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s7:hover .p1{
+    display: block;
+}
+.s8{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s8:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s8:hover .p1{
+    display: block;
+}
+.s9{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s9:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+}
+.s9:hover .p1{
+    display: block;
+}
+.s10{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s10:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+}
+.s10:hover .p1{
+    display: block;
+}
+ .s13{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  .s13:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+}
+ .s13:hover .p1{
+    display: block;
+}
+.s12{
+    height:450px;
+    background-image: url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s12:hover{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bridge357.qodeinteractive.com/wp-content/uploads/2020/04/port-img-12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+}
+.s12:hover .p1{
+    display: block;
+}
+.onn{
+    display: block;
+}
+.off{
+    display: none;
+}
